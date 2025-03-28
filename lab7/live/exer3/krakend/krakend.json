@@ -46,7 +46,7 @@
             ]
           },
           "host": [
-            "YOUR_FUNCION_URL"
+            " https://console.cloud.google.com/functions/details/us-central1/diabetes-predictor-training-api?project=ada2025-450217"
           ],
           "disable_host_sanitize": true
         }
