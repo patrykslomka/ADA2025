@@ -1,6 +1,6 @@
 {
-  "project_id": "your project id",
-  "data_bucket": "your data bucket",
+  "project_id": "ada2025-450217",
+  "data_bucket": "ada2025_confsps",
   "trainset_filename": "training_set.csv",
-  "model_repo": "your project model repo"
+  "model_repo": "lab3-live"
 }
